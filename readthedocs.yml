@@ -1,0 +1,2 @@
+conda:
+  file: example_cpp_cookiecutter-dev-requirements.yml

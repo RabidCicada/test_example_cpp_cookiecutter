@@ -1,0 +1,8 @@
+prefix=@CMAKE_INSTALL_PREFIX@
+libdir=${prefix}/@CMAKE_INSTALL_LIBDIR@
+includedir=${prefix}/include
+
+Name: example_cpp_cookiecutter
+Description: example_cpp_cookiecutter is a modern C++ library
+Version: @example_cpp_cookiecutter_VERSION@
+Cflags: -I${includedir}
